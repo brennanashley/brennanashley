@@ -1,7 +1,7 @@
 - 👋 hi, i’m @brennanashley
 - 👀 i’m interested in btc
 - 🌱 i’m currently learning data science at lambda school
-- 👀 view my data science blog at ashtech.substack.com
+- 👀 view my data science blog at https://ashtech.substack.com/
 - 📫 How to reach me abrennan7@gmail.com
 
 <!---
